@@ -28,6 +28,7 @@ _This is an assignment to the class [Advanced Programming](https://hsro-inf-fpk.
 
 > You should now know what it means if someone asks you: Can you please merge my PR into your master branch?
 
+
 ## Get familiar with Gradle
 
 0. Install the [Gradle build tool](https://gradle.org/); make sure you have a recent [Java JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html) installed and configured for command line use.
